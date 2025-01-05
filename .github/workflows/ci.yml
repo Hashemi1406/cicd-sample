@@ -1,4 +1,4 @@
-name: Conditional CI Test
+name: Conditional CI Tes
 
 on:
   pull_request:
