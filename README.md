@@ -1,2 +1,2 @@
 # cicd-sample
-My first CI/CD demo
+My first CI/CD demo README
